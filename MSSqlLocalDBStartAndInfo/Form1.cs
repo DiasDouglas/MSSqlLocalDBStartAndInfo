@@ -67,7 +67,6 @@ namespace MSSqlLocalDBStartAndInfo
 
             string output = FormatOutput();
 
-            outputTextBox.CreateControl();
             outputTextBox.Text = output;
         }
 
