@@ -1,4 +1,4 @@
-# MSSqlLocalDBStartAndInfo
+# MSSQL LocalDB Start and Info
 ## A Windows Form app to initialize and retrieve info from MSSQL Local DB
 
 This is a very simple, post Hello World app I've made because:
